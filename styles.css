@@ -16,6 +16,7 @@ footer{
             justify-content: space-between;
         }
         .media-icons, .fa{
+			display: flex;
             text-align: right;
             padding: 10px;
             margin: 0px 5px;
