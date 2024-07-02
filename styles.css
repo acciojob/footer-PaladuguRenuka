@@ -1,1 +1,62 @@
 /* your code here */
+footer{
+            color: white;
+            background-color: black;
+        }
+        .content{
+            margin: 20px;
+            padding: 20px;
+        }
+        .logo_name{
+            font-size: xx-large; 
+            text-align: center;
+        }
+        .top{
+            display: flex;
+            justify-content: space-between;
+        }
+        .media-icons, .fa{
+            text-align: right;
+            padding: 10px;
+            margin: 0px 5px;
+            color: white;
+            border: none;
+            border-radius: 50%;
+        }
+        .fa-facebook{
+            background-color: rgb(39, 39, 104);
+        }
+        .fa-twitter{
+            background-color: rgb(53, 53, 224);
+        }
+        .fa-instagram{
+            background-color: rgb(188, 64, 140);
+        }
+        .fa-linkedin{
+            background-color: rgb(38, 101, 238);
+        }
+        .fa-youtube{
+            background-color: rgb(159, 33, 33);
+        }
+        .link-boxes{
+            display: flex;
+            justify-content: space-between;
+            margin-top: 50px;
+        }
+        .links{
+            color: white;
+            font-size: larger;
+        }
+        ul, li{
+            padding: 2px;
+            margin: 2px;
+        }
+        .bottom-details{
+            display: flex;
+            justify-content: space-between;
+            background-color: rgb(71, 70, 70);
+            color: rgb(168, 166, 166);
+            padding: 10px 20px;
+            margin-top: 50px;
+			text-align: center;
+        }
